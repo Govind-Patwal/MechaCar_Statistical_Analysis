@@ -1,11 +1,12 @@
 # MechaCar Statistical Analysis
 
 ## Overview
+I am helping Jeremy, who has been working with **AutoRUs** for 10 years now. With changing times, his management has decided to make changes to the decision making process. Jeremy with his experience was considered a foremost candidate for the role. 
 
 ## Purpose of this analysis
-In the past, Jeremy and I analysed some data and the management was happy.
+In the past, Jeremy and I analysed some data and the management was happy with the outcome.
 
- Now, Jeremy is approached by upper management about a special project. AutosRUs’ newest prototype, the MechaCar, is suffering from production troubles that are blocking the manufacturing team’s progress. AutosRUs’ upper management has called on Jeremy and the data analytics team to review the production data for insights that may help the manufacturing team.
+ Now, Jeremy has been approached by upper management about a special project. AutosRUs’ newest prototype, the MechaCar, is suffering from production troubles that are blocking the manufacturing team’s progress. AutosRUs’ upper management has called on Jeremy and the data analytics team to review the production data for insights that may help the manufacturing team.
 
 ## Resources
 * Software/Tools: `Visual Studio Code` (v1.49.2), `RStudio` (v1.3.1093), `R` x64 3.6.3

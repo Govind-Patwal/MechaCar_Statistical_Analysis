@@ -1,5 +1,6 @@
 # MechaCar Statistical Analysis
 
+## Overview
 
 ## Purpose of this analysis
 In the past, Jeremy and I analysed some data and the management was happy.
@@ -98,4 +99,3 @@ There are many metrices that a cunsumer thinks of at the time of buying a car, a
 
 * What data is needed to run the statistical test?
     * We would need completely radom samples of '**City Fuel Efficiency**' of MechaCar and the competition.     
-
